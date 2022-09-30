@@ -1,0 +1,31 @@
+body {
+  background: #542dd0;
+}
+
+.container {
+  padding: 25px;
+  background: #a6a8e3;
+  margin: 0px 200px;
+}
+
+.header {
+  text-align: center;
+  color: #fff;
+}
+
+.content-holder {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  column-gap: 160px;
+}
+
+.smart-zone {
+  background-color: red;
+  padding: 20px 75px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
